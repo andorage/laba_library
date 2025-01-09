@@ -1,0 +1,6 @@
+C:\Users\bitan\OneDrive\Рабочий стол\тикток\библиотека\InterestCalculatorLibrary\InterestCalculatorLibrary\bin\Debug\InterestCalculatorLibrary.dll
+C:\Users\bitan\OneDrive\Рабочий стол\тикток\библиотека\InterestCalculatorLibrary\InterestCalculatorLibrary\bin\Debug\InterestCalculatorLibrary.pdb
+C:\Users\bitan\OneDrive\Рабочий стол\тикток\библиотека\InterestCalculatorLibrary\InterestCalculatorLibrary\obj\Debug\InterestCalculatorLibrary.csproj.AssemblyReference.cache
+C:\Users\bitan\OneDrive\Рабочий стол\тикток\библиотека\InterestCalculatorLibrary\InterestCalculatorLibrary\obj\Debug\InterestCalculatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\bitan\OneDrive\Рабочий стол\тикток\библиотека\InterestCalculatorLibrary\InterestCalculatorLibrary\obj\Debug\InterestCalculatorLibrary.dll
+C:\Users\bitan\OneDrive\Рабочий стол\тикток\библиотека\InterestCalculatorLibrary\InterestCalculatorLibrary\obj\Debug\InterestCalculatorLibrary.pdb
