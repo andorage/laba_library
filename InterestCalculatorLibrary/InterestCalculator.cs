@@ -15,6 +15,9 @@ namespace InterestCalculatorLibrary
         }
 
         // Метод для расчета сложных процентов
+
+
+        //ДОПУСТИМ ВОТ ЗДЕСЬ Я ЧТО-ТО ИЗМЕНИЛ
         public double CompoundInterest(double principal, double rate, int periods)
         {
             return principal * Math.Pow(1 + rate, periods);
@@ -25,6 +28,9 @@ namespace InterestCalculatorLibrary
         {
             return principal * Math.Pow(1 + rate / compoundsPerYear, compoundsPerYear * periods);
         }
+
+
+        //ЗДЕСЬ Я ТОЖЕ ЧТО-ТО ПОМЕНЯЛ
 
         // Метод для расчета непрерывных процентов
         public double ContinuouslyCompoundedInterest(double principal, double growthRate, int periods)
